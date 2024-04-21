@@ -5,9 +5,13 @@ Parameter Estimation is a branch of statistics that involves using sample data t
 Some distributions and their parameters:
 
 Distribution	Parameters (θ)
+
 Bernoulli(p)	θ = p
+
 Poisson(λ)	θ = λ
+
 Uniform(a, b)	θ = [a, b]
+
 Normal(μ, σ^2)	θ = [μ, σ^2]
 
 Task
